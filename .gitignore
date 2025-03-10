@@ -1,0 +1,7 @@
+# Bỏ qua thư mục hệ thống
+AppData/
+*.log
+*.cache
+.m2/
+.nbi/
+/target/
