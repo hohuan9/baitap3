@@ -1,5 +1,6 @@
 
 package test;
+import com.mycompany.student.Student;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
